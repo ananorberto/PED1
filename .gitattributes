@@ -1,3 +1,12 @@
+assets/js/terceiros/* linguist-vendored
+jquery.js linguist-vendored=false
+project-docs/* linguist-documentation
+docs/formatter.rb linguist-documentation=false
+Api.elm linguist-generated=true
+*.kicad_pcb linguist-detectable=true
+
+*.sch linguist-detectable=true
+tools/export_bom.py linguist-detectable=false
 *.java linguist-detectable=false
 *.js linguist-detectable=false
 *.html linguist-detectable=false
@@ -6,6 +15,7 @@
 *.sh linguist-detectable=false
 *.bat linguist-detectable=false
 *.lpr linguist-detectable=false
+
 Footer
 © 2022 GitHub, Inc.
 Footer navigation
