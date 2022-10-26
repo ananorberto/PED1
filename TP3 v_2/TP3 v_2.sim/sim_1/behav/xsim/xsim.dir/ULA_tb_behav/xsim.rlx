@@ -1,0 +1,12 @@
+
+{ 
+    crc :  17898062842187151016  , 
+    ccp_crc :  0  , 
+    cmdline : " -wto 31dc00735c7f4e5eaee52b8d90f3e467 --incr --debug typical --relax --mt 8 -L xil_defaultlib -L secureip --snapshot ULA_tb_behav xil_defaultlib.ULA_tb" , 
+    buildDate : "Nov 18 2020" , 
+    buildTime : "09:20:35" , 
+    linkCmd : "/usr/bin/gcc -Wa,-W  -O -fPIC  -m64  -Wl,--no-as-needed  -Wl,--unresolved-symbols=ignore-all  -o \"xsim.dir/ULA_tb_behav/xsimk\"   \"xsim.dir/ULA_tb_behav/obj/xsim_0.lnx64.o\" \"xsim.dir/ULA_tb_behav/obj/xsim_1.lnx64.o\" -L\"/mnt/nvme0n1p2/Vivado/2020.2/lib/lnx64.o\" -lrdi_simulator_kernel   -lrdi_simbridge_kernel" , 
+    aggregate_nets : 
+    [ 
+    ] 
+} 

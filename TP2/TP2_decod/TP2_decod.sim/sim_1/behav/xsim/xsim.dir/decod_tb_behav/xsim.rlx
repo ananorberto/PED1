@@ -1,0 +1,12 @@
+
+{ 
+    crc :  3608039659057300808  , 
+    ccp_crc :  0  , 
+    cmdline : " -wto 92b9d7b350ad438aa62d9d145e3f3a62 --incr --debug typical --relax --mt 8 -L xil_defaultlib -L secureip --snapshot decod_tb_behav xil_defaultlib.decod_tb" , 
+    buildDate : "Nov 18 2020" , 
+    buildTime : "09:20:35" , 
+    linkCmd : "/usr/bin/gcc -Wa,-W  -O -fPIC  -m64  -Wl,--no-as-needed  -Wl,--unresolved-symbols=ignore-all  -o \"xsim.dir/decod_tb_behav/xsimk\"   \"xsim.dir/decod_tb_behav/obj/xsim_0.lnx64.o\" \"xsim.dir/decod_tb_behav/obj/xsim_1.lnx64.o\" -L\"/mnt/nvme0n1p2/Vivado/2020.2/lib/lnx64.o\" -lrdi_simulator_kernel   -lrdi_simbridge_kernel" , 
+    aggregate_nets : 
+    [ 
+    ] 
+} 
