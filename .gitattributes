@@ -1,11 +1,18 @@
+
+*.java linguist-detectable=false
+*.js linguist-detectable=false
+*.html linguist-detectable=false
 *.tcl linguist-detectable=false
 *.vhd linguist-detectable=true
 *.sh linguist-detectable=false
 *.bat linguist-detectable=false
 *.lpr linguist-detectable=false
 *.pb linguist-detectable=false
-
-
+*.lpr linguist-detectable=false
+*.h linguist-detectable=false
+*.c linguist-detectable=false
+*.hpp linguist-detectable=false
+*.cpp linguist-detectable=false
 
 Footer
 © 2022 GitHub, Inc.
