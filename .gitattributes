@@ -11,6 +11,11 @@
 *.c linguist-detectable=false
 *.hpp linguist-detectable=false
 *.cpp linguist-detectable=false
+*.tcl linguist-detectable=false
+*/*.tcl linguist-detectable=false
+*/*/*.tcl linguist-detectable=false
+*/*/*/*.tcl linguist-detectable=false
+*/*/*/*/*.tcl linguist-detectable=false
 
 Footer
 © 2022 GitHub, Inc.
