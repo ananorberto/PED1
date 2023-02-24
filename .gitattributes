@@ -2,7 +2,6 @@
 *.js linguist-detectable=false
 *.html linguist-detectable=false
 *.pb linguist-detectable=false
-*.tcl linguist-detectable=false
 *.vhd linguist-detectable=true
 *.sh linguist-detectable=false
 *.bat linguist-detectable=false
@@ -11,7 +10,7 @@
 *.c linguist-detectable=false
 *.hpp linguist-detectable=false
 *.cpp linguist-detectable=false
-*.tcl linguist-detectable=false
+*.tcl linguist-vendored
 "standalone exes/matplotlib/*" linguist-detectable=false
 "standalone exes/mpl-data/*" linguist-detectable=false
 "standalone exes/tcl/*" linguist-detectable=false
