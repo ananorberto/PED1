@@ -1,8 +1,0 @@
-Vivado Simulator 2020.2
-Copyright 1986-1999, 2001-2020 Xilinx, Inc. All Rights Reserved.
-Running: /mnt/nvme0n1p2/Vivado/2020.2/bin/unwrapped/lnx64.o/xelab -wto 92b9d7b350ad438aa62d9d145e3f3a62 --incr --debug typical --relax --mt 8 -L xil_defaultlib -L secureip --snapshot decod_tb_behav xil_defaultlib.decod_tb -log elaborate.log 
-Using 8 slave threads.
-Starting static elaboration
-WARNING: [VRFC 10-4940] 'decodificador_7segmentos' remains a black box since it has no binding entity [/mnt/nvme0n1p2/Vivado/Vivado_projects/TP2/TP2_decod/TP2_decod.srcs/sim_1/new/decod_tb.vhd:53]
-Completed static elaboration
-INFO: [XSIM 43-4323] No Change in HDL. Linking previously generated obj files to create kernel

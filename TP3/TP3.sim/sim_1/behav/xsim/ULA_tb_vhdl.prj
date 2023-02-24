@@ -1,7 +1,0 @@
-# compile vhdl design source files
-vhdl xil_defaultlib  \
-"../../../../TP3.srcs/sources_1/new/ULA.vhd" \
-"../../../../TP3.srcs/sim_1/new/ULA_tb.vhd" \
-
-# Do not sort compile order
-nosort

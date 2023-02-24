@@ -1,6 +1,0 @@
-# compile vhdl design source files
-vhdl xil_defaultlib  \
-"../../../../TP2_decod.srcs/sim_1/new/decod_tb.vhd" \
-
-# Do not sort compile order
-nosort

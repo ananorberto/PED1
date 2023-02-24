@@ -1,6 +1,0 @@
-INFO: [VRFC 10-163] Analyzing VHDL file "/mnt/nvme0n1p2/Vivado/Vivado_projects/CALCULADORA/CALCULADORA.srcs/sources_1/new/ULA_.vhd" into library xil_defaultlib
-INFO: [VRFC 10-3107] analyzing entity 'ULA1'
-INFO: [VRFC 10-163] Analyzing VHDL file "/mnt/nvme0n1p2/Vivado/Vivado_projects/CALCULADORA/CALCULADORA.srcs/sources_1/new/top.vhd" into library xil_defaultlib
-INFO: [VRFC 10-3107] analyzing entity 'top'
-INFO: [VRFC 10-163] Analyzing VHDL file "/mnt/nvme0n1p2/Vivado/Vivado_projects/CALCULADORA/CALCULADORA.srcs/sim_1/new/tb_ula.vhd" into library xil_defaultlib
-INFO: [VRFC 10-3107] analyzing entity 'tb_ula'

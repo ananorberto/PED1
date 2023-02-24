@@ -1,1 +1,0 @@
--wto "2df1066bf6144da0917b4aa9bee9d6a0" --incr --debug "typical" --relax --mt "8" -L "xil_defaultlib" -L "secureip" --snapshot "clock_50mhz_behav" "xil_defaultlib.clock_50mhz" -log "elaborate.log" 
